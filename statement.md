@@ -9,7 +9,7 @@ def function_to_test(a: int) > str:
 print('Hello World!')
 ```
 
-```python runnable
+```python
 import pytest
 
 def test_function():
